@@ -10,7 +10,7 @@
 
 🌟 We are currently in the process of carefully organizing and refining the code. The code will be available soon. Thank you for your patience! 🙏
 
-🚩 Updates (2025-1-22) Initial upload to arXiv [PDF](https://arxiv.org/abs/2502.06707).
+🚩 Updates (2025-2-10) Initial upload to arXiv [PDF](https://arxiv.org/abs/2502.06707).
 
 ## 📚 Citation
 
