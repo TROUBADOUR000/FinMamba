@@ -19,7 +19,7 @@ If you find this repository helpful, please cite our paper:
 ```bibtex
 @article{hu2025finmamba,
       title={FinMamba: Market-Aware Graph Enhanced Multi-Level Mamba for Stock Movement Prediction}, 
-      author={Hu, Yifan and Liu, Peiyuan and Li, Yuante and Cheng, Dawei and Li, Naiqi and Dai, Tao and Bao, Jigang and Xia Shu-Tao},
+      author={Yifan Hu and Peiyuan Liu and Yuante Li and Dawei Cheng and Naiqi Li and Tao Dai and Jigang Bao and Shu-Tao Xia},
       journal={arXiv preprint arXiv:2502.06707},
       year={2025}
 }
