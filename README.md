@@ -1,5 +1,5 @@
-<img src="./assets/logo.png" width="150">
-
+<p align="center">
+    <img src="./assets/logo.png" width="150">
 </p>
 
 # FinMamba: Market-Aware Graph Enhanced Multi-Level Mamba for Stock Movement Prediction
